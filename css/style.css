@@ -30,3 +30,7 @@ display: block;
 .colored_1_text{
     color: blueviolet;
 }
+.center_list{
+    padding-left: 20%;
+  padding-right: 20%;
+}
